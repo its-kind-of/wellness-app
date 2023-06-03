@@ -34,5 +34,8 @@ To run the Streamlit app and perform data analysis, follow these steps:
 5. Interact with the app by adjusting the sliders and observing the predicted daily active minutes.
 6. Explore the `assignment_ml_neumile.ipynb` notebook for detailed data analysis and model building steps.
 
+### Check the web-app on the following link
+https://wellness-app.onrender.com/
+
 Feel free to modify the code, dataset, and add additional functionalities to suit your specific requirements.
 
