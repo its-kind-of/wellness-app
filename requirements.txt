@@ -3,3 +3,4 @@ pandas
 sklearn==1.0.2
 joblib
 streamlit
+gunicorn
